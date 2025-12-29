@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://images.ctfassets.net/eexbcii1ci83/3AGUUtHuXuzHKu1O5PFKhh/b76f6b4e18105209f858886462de28f0/Cardiovascular_disease_3.png" alt="drawing" width="300"/>
+<img src="heart.png" alt="drawing" width="300"/>
 
 </div>
 
